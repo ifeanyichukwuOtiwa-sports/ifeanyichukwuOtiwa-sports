@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ifeanyi-otiwa
+- 👋 Hi, I’m @ifeanyichukwu-otiwa
 - 👀 I’m interested in Problem Solving, Java, Microservices with Spring, Docker and Kubernetes
 - 🌱 I’m currently learning and improving my skills
 - 💞️ I’m looking to collaborate on any interesting projects
