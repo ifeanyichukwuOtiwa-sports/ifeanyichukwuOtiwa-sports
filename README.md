@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 You can reach me through ifeanyichukwuotiwa.winson@gmail.com
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ifeanyiotiwa-hub&show_icons=true&theme=tokyonight&line_height=52&count_private=true" />
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyiotiwa-hub&count_private=true&theme=tokyonight&line_height=52">
+</p>
+
 <!---
 ifeanyi-otiwa/ifeanyi-otiwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
