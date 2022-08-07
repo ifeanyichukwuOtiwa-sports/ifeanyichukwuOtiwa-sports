@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ifeanyichukwu-otiwa
-- 👀 I’m interested in Problem Solving, Java, Microservices with Spring, Docker and Kubernetes
+- 👀 I’m interested in Problem Solving, Java, Microservices with Spring, Spring Boot, MySQL, gRPC, REST, Kafka, git, Docker and Kubernetes
 - 🌱 I’m currently learning and improving my skills
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 You can reach me through ifeanyichukwuotiwa.winson@gmail.com
