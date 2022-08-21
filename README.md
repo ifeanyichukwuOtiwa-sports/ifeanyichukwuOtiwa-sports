@@ -5,14 +5,14 @@
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 You can reach me through ifeanyichukwuotiwa.winson@gmail.com
 ***
-# ![trophy](PngItem_1427056.png) GITHUB PROFILE TROPHY
+<h2>🏆 Github Profile Trophy</h2>
 
 <span style="display:block;text-align:center">[![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=tokyonight&column=-1&&no-frame=true&rank=S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)</span>
 
 ---
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&show_icons=true&theme=tokyonight&line_height=52&count_private=true" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&count_private=true&theme=tokyonight&line_height=52">
+  <img src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&show_icons=true&theme=tokyonight&line_height=52&count_private=true&include_all_commits=true" />
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&count_private=true&theme=tokyonight&layout=compact">
 </p>
 ---
 
