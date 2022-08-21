@@ -7,14 +7,14 @@
 ***
 <h2>🏆 Github Profile Trophy</h2>
 
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=tokyonight&column=-1&&no-frame=true&rank=S,AAA,AA,A,B" alt="github trophy">
+<p align="center"> <img width="800" src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=tokyonight&column=-1&&no-frame=true&rank=S,AAA,AA,A,B" alt="github trophy">
 </p>
 
 ---
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&show_icons=true&theme=tokyonight&line_height=52&count_private=true&include_all_commits=true" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&count_private=true&theme=tokyonight&layout=compact">
-</p>
+<div>
+  <img height="170" allign="left" src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&show_icons=true&theme=tokyonight&line_height=52&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&count_private=true&theme=tokyonight&layout=compact">
+</div>
 ---
 
 <!--
