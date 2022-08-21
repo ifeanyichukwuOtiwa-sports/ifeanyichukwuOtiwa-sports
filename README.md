@@ -1,10 +1,10 @@
 
 <div size='20px'><b>Hi! Thank You for taking the time to view my GitHub Profile</b></div> 
 
-- 👋 I’m @ifeanyichukwu-otiwa
-- 👀 I’m interested in Problem Solving, Java, Microservices with Spring, Spring Boot, MySQL, gRPC, REST, Kafka, git, Docker and Kubernetes
-- 🌱 I’m currently learning and improving my skills
-- 💞️ I’m looking to collaborate on any interesting projects
+- 👋 I am @ifeanyichukwu-otiwa
+- 👀 I'm interested in Problem Solving, Java, Microservices with Spring, Spring Boot, MySQL, gRPC, REST, Kafka, git, Docker and Kubernetes
+- 🌱 I am a fast learner and I'm currently learning and improving my skills
+- 💞️ I'm looking to collaborate on any interesting projects
 - 📫 You can reach me through ifeanyichukwuotiwa.winson@gmail.com
 
 <p align="left" marginTop="10px"> <img src="https://komarev.com/ghpvc/?username=ifeanyichukwuOtiwa-sports&label=Profile%20views&color=0e75b6&style=flat" alt="ifeanyichukwuOtiwa-sports" /> </p>
