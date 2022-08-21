@@ -7,7 +7,7 @@
 ***
 # GITHUB PROFILE TROPHY
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=tokyonight&column=-1&&no-frame=true&rank=S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+<span style="display:block;text-align:center">[![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=tokyonight&column=-1&&no-frame=true&rank=S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)</span>
 
 ---
 <p>
