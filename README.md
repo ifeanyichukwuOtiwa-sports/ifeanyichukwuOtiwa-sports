@@ -15,11 +15,11 @@
 ---
 
 <div>
-  <img width="53%" align="left" src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&show_icons=true&theme=tokyonight&line_height=52&count_private=true&include_all_commits=true" />
+  <img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&show_icons=true&theme=tokyonight&line_height=52&count_private=true&include_all_commits=true" />
   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&count_private=true&theme=tokyonight&layout=compact">
 </div>
 
-***
+
 
 <!--
 <p align="center">
