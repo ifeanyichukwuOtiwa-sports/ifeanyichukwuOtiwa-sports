@@ -8,7 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&show_icons=true&theme=tokyonight&line_height=52&count_private=true" />
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&count_private=true&theme=tokyonight&line_height=52">
 </p>
-![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 <!---
 ifeanyi-otiwa/ifeanyi-otiwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
