@@ -9,8 +9,6 @@
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&count_private=true&theme=tokyonight&line_height=52">
 </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports" alt="ifeanyichukwuOtiwa-sports" /></a> 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
