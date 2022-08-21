@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 You can reach me through ifeanyichukwuotiwa.winson@gmail.com
 
-<p align="left" marginTop="10px"> <img src="https://komarev.com/ghpvc/?username=ifeanyichukwuOtiwa-sports&label=Profile%20views&color=ce9927&style=flat" alt="ifeanyichukwuOtiwa-sports" /> </p>
+<p align="left" marginTop="10px"> <img src="https://komarev.com/ghpvc/?username=ifeanyichukwuOtiwa-sports&label=Profile%20views&color=0e75b6&style=flat" alt="ifeanyichukwuOtiwa-sports" /> </p>
 
 ***
 
@@ -18,9 +18,12 @@
 
 ___
 
+<p align="center">
+  <a href="https://github.com/ifeanyichukwuOtiwa-sports">
 <p>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&count_private=true&theme=tokyonight">
-  <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&show_icons=true&theme=tokyonight&line_height=52&count_private=true&include_all_commits=true" />
+  <img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&show_icons=true&theme=tokyonight&line_height=52&count_private=true&include_all_commits=true" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ifeanyichukwuOtiwa-sports&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <div>
