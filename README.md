@@ -6,8 +6,8 @@
 - 📫 You can reach me through ifeanyichukwuotiwa.winson@gmail.com
 ***
 # GITHUB PROFILE TROPHY
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=tokyonight&column=-1&&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=tokyonight&column=-1&&no-frame=true&rank=S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 <p>
