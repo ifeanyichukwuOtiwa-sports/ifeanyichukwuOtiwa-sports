@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 You can reach me through ifeanyichukwuotiwa.winson@gmail.com
 ***
-# GITHUB PROFILE TROPHY
+# ![trophy](PngItem_1427056.png) GITHUB PROFILE TROPHY
 
 <span style="display:block;text-align:center">[![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=tokyonight&column=-1&&no-frame=true&rank=S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)</span>
 
