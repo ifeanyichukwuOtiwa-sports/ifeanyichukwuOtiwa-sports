@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - 👋 Hi, I’m @ifeanyichukwu-otiwa
 - 👀 I’m interested in Problem Solving, Java, Microservices with Spring, Spring Boot, MySQL, gRPC, REST, Kafka, git, Docker and Kubernetes
 - 🌱 I’m currently learning and improving my skills
@@ -8,9 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&show_icons=true&theme=tokyonight&line_height=52&count_private=true" />
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&count_private=true&theme=tokyonight&line_height=52">
 </p>
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+
 
 <!--
 <p align="center">
