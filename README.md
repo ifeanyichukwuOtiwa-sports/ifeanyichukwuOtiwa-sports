@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=algolia&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 👋 Hi, I’m @ifeanyichukwu-otiwa
