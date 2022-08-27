@@ -1,7 +1,7 @@
 
 <div size='20px'><b>Hi! Thank You for taking the time to view my GitHub Profile</b></div> 
 
-- 👋 I am @ifeanyichukwu-otiwa
+- 👋 I am Ifeanyichukwu Otiwa
 - 👀 I'm interested in Problem Solving, Java, Microservices with Spring, Spring Boot, MySQL, gRPC, REST, Kafka, git, Docker and Kubernetes
 - 🌱 I am a fast learner and I'm currently learning and improving my skills
 - 💞️ I'm looking to collaborate on any interesting projects
