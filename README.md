@@ -1,5 +1,8 @@
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
-<div size='20px'><b>Hi! Thank You for taking the time to view my GitHub Profile</b></div> 
+## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> 
+
+Thank You for taking the time to view my GitHub Profile
 
 - 👋 I am Ifeanyichukwu Otiwa
 - 👀 I'm interested in Problem Solving, Java, Microservices with Spring, Spring Boot, MySQL, gRPC, REST, Kafka, git, Docker and Kubernetes
@@ -30,8 +33,10 @@ ___
   <img src="https://activity-graph.herokuapp.com/graph?username=ifeanyichukwuOtiwa-sports&custom_title=Ifeanyichukwu%20Otiwa%20Contribution%20Graph&theme=react-dark" alt="Activity Graph">
 </div>
 
+---
 
-
+## 📊 &nbsp;**This week I spent my time on**
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=istar007&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <!--
 <p align="center">
