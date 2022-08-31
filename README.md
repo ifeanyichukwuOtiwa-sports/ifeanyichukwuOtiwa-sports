@@ -34,15 +34,6 @@ ___
 </div>
 
 ---
-
-## 📊 &nbsp;**This week I spent my time on**
-
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=istar007&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-@istar007
-
-[![wakatime](https://wakatime.com/badge/user/6b323d16-209e-42ea-9ebb-d9691835adfe.svg)](https://wakatime.com/@6b323d16-209e-42ea-9ebb-d9691835adfe)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
