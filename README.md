@@ -34,8 +34,8 @@ ___
 </div>
 
 ---
+
 <!--START_SECTION:waka-->
-![charts](charts/bar_graph.png)
 <!--END_SECTION:waka-->
 
 <!--
