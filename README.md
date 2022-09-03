@@ -1,6 +1,6 @@
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
-## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> 
+## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> 
 
 Thank You for taking the time to view my GitHub Profile
 
