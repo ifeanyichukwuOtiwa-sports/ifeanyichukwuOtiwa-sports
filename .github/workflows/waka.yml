@@ -15,6 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_TIME_API }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BRANCH: "develop"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE: "True"
