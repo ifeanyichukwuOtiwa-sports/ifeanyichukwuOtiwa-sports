@@ -15,35 +15,69 @@ Thank You for taking the time to view my GitHub Profile
 ***
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-745%20hrs%2044%20mins-blue)
 
-<!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
-***
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20%20Thousand%20lines%20of%20code-blue)
 
-<h2>🏆 Github Profile Trophy</h2>
+**🐱 My GitHub Data** 
 
-<p align="center"> <img width="800" src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=tokyonight&column=-1&&no-frame=true&rank=S,AAA,AA,A,B" alt="github trophy">
-</p>
+> 🏆 1,070 Contributions in the Year 2022
+ > 
+> 📦 1.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 42 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
-___
+```text
+🌞 Morning    233 commits    ████████░░░░░░░░░░░░░░░░░   32.09% 
+🌆 Daytime    238 commits    ████████░░░░░░░░░░░░░░░░░   32.78% 
+🌃 Evening    194 commits    ██████░░░░░░░░░░░░░░░░░░░   26.72% 
+🌙 Night      61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.4%
 
-<p align="center">
-  <a href="https://github.com/ifeanyichukwuOtiwa-sports">
-<p>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&count_private=true&theme=tokyonight">
-<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&show_icons=true&theme=tokyonight&line_height=59&count_private=true&include_all_commits=true" />
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ifeanyichukwuOtiwa-sports&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+```
+📅 **I'm Most Productive on Sunday** 
 
-<!-- https://hooks.slack.com/services/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 :SLACK_WEBHOOK-->
+```text
+Monday       72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.92% 
+Tuesday      68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.37% 
+Wednesday    97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36% 
+Thursday     119 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
+Friday       131 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.04% 
+Saturday     67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
+Sunday       172 commits    ██████░░░░░░░░░░░░░░░░░░░   23.69%
 
-<div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=ifeanyichukwuOtiwa-sports&custom_title=Ifeanyichukwu%20Otiwa%20Contribution%20Graph&theme=react-dark" alt="Activity Graph">
-</div>
+```
 
----
 
-<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+TypeScript               19 hrs 35 mins      ████████████░░░░░░░░░░░░░   47.8% 
+Java                     17 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   43.19% 
+Groovy                   50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06% 
+YAML                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
+Properties               44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81%
+
+🔥 Editors: 
+IntelliJ                 41 hrs              █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    41 hrs              █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 21/10/2022 21:55:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
