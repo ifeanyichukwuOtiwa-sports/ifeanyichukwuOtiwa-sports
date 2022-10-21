@@ -14,6 +14,12 @@ Thank You for taking the time to view my GitHub Profile
 
 ***
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+***
+
 <h2>🏆 Github Profile Trophy</h2>
 
 <p align="center"> <img width="800" src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=tokyonight&column=-1&&no-frame=true&rank=S,AAA,AA,A,B" alt="github trophy">

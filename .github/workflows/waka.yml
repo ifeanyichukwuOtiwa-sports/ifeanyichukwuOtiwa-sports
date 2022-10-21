@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '00 00 * * *'
+    - cron: '30 06 * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,9 +14,14 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_TIME_API }}
-          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: true
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: "True"
+          SHOW_LINES_OF_CODE: "True"
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
+          SHOW_TIME: "True"
+          SHOW_MASKED_TIME: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+
