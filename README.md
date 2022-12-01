@@ -15,7 +15,7 @@ Thank You for taking the time to view my GitHub Profile
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-844%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,7 +23,7 @@ Thank You for taking the time to view my GitHub Profile
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,090 Contributions in the Year 2022
+> 🏆 1,091 Contributions in the Year 2022
  > 
 > 📦 1.9 kB Used in GitHub's Storage 
  > 
@@ -62,22 +62,22 @@ Sunday       172 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        ███████████████░░░░░░░░░░   63.03% 
-Java                     52 mins             ██████░░░░░░░░░░░░░░░░░░░   25.98% 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
-Nginx configuration file 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
+TypeScript               3 hrs 14 mins       █████████████████░░░░░░░░   68.11% 
+Java                     1 hr                █████░░░░░░░░░░░░░░░░░░░░   21.06% 
+HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.6% 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
+Nginx configuration file 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43%
 
 🔥 Editors: 
-IntelliJ                 3 hrs 23 mins       █████████████████████████   100.0%
+IntelliJ                 4 hrs 44 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    3 hrs 23 mins       █████████████████████████   100.0%
+Linux                    4 hrs 44 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 30/11/2022 06:47:43 UTC
+ Last Updated on 01/12/2022 06:48:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
