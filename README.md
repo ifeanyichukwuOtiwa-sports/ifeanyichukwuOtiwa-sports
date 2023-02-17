@@ -15,15 +15,15 @@ Thank You for taking the time to view my GitHub Profile
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C068%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C069%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 89 Contributions in the Year 2023
+> 🏆 86 Contributions in the Year 2023
  > 
 > 📦 2.0 kB Used in GitHub's Storage 
  > 
@@ -62,22 +62,22 @@ Sunday         196 commits       ██████░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-TypeScript               23 hrs 25 mins      ████████████░░░░░░░░░░░░░   47.72 % 
-Java                     9 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-HTML                     9 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.50 % 
-SQL                      2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-JSON                     57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+TypeScript               18 hrs 55 mins      ███████████░░░░░░░░░░░░░░   46.95 % 
+HTML                     7 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Java                     7 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.24 % 
+SQL                      2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+XML                      46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-IntelliJ                 49 hrs 6 mins       █████████████████████████   100.00 % 
+IntelliJ                 40 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    49 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    40 hrs 17 mins      █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 16/02/2023 06:44:07 UTC
+ Last Updated on 17/02/2023 06:41:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
