@@ -15,7 +15,7 @@ Thank You for taking the time to view my GitHub Profile
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C266%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C266%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,10 +60,10 @@ Sunday                   280 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Java                     12 hrs 26 mins      ██████████████░░░░░░░░░░░   56.87 % 
+Java                     12 hrs 28 mins      ██████████████░░░░░░░░░░░   57.05 % 
 TypeScript               2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 HTTP Request             1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Properties               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Properties               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 Groovy                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 🔥 Editors: 
@@ -74,7 +74,7 @@ Linux                    21 hrs 52 mins      ███████████�
 ```
 
 
- Last Updated on 08/04/2023 06:39:38 UTC
+ Last Updated on 09/04/2023 06:39:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
