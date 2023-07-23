@@ -5,10 +5,12 @@
 Thank You for taking the time to view my GitHub Profile
 
 - 👋 I am Ifeanyichukwu Otiwa
-- 👀 I'm interested in Problem Solving, Java, Microservices with Spring, Spring Boot, MySQL, gRPC, REST, Kafka, git, Docker and Kubernetes
+- 🚀 Experienced Java Backend Pro, boosting app performance, security, & scalability. Let's build something extraordinary together!
+- 👀 I'm interested in Problem Solving, Java, Microservices with Spring, Spring Boot, MySQL, gRPC, REST, Kafka, git, Docker, and Kubernetes
 - 🌱 I am a fast learner and I'm currently learning and improving my skills
 - 💞️ I'm looking to collaborate on any interesting projects
 - 📫 You can reach me through ifeanyichukwuotiwa.winson@gmail.com
+- 🚀 #BackendEngineer
 
 <p align="left" marginTop="10px"> <img src="https://komarev.com/ghpvc/?username=ifeanyichukwuOtiwa-sports&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ifeanyichukwuOtiwa-sports" /> </p>
 
