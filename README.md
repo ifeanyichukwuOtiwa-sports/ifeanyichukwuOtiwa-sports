@@ -17,7 +17,7 @@ Thank You for taking the time to view my GitHub Profile
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C905%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C916%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,11 +27,11 @@ Thank You for taking the time to view my GitHub Profile
 
 > 📦 2.9 kB Used in GitHub's Storage 
  > 
-> 🏆 642 Contributions in the Year 2023
+> 🏆 643 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 73 Public Repositories 
+> 📜 74 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -62,17 +62,17 @@ Sunday                   257 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Java                     32 hrs 11 mins      ████████████████████░░░░░   81.20 % 
-HTTP Request             3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-HTML                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Vue.js                   39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-JavaScript               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Java                     39 hrs 30 mins      ████████████████████░░░░░   81.23 % 
+HTTP Request             4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+HTML                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Vue.js                   39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+YAML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-IntelliJ                 39 hrs 38 mins      █████████████████████████   100.00 % 
+IntelliJ                 48 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    39 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    48 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -88,7 +88,7 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/11/2023 06:40:49 UTC
+ Last Updated on 12/11/2023 07:22:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
