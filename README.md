@@ -17,7 +17,7 @@ Thank You for taking the time to view my GitHub Profile
 ***
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C611%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C618%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20million%20lines%20of%20code-blue)
 
@@ -48,13 +48,21 @@ Sunday                   544 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     3 hrs 9 mins        ████████████████░░░░░░░░░   64.55 % 
+YAML                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+SQL                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Gradle                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+settlement-engine        2 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.22 % 
+helm-chart-betpawa-migrat1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+auto-cashout             39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+FixedOddsBets            30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+spring-strategy-pattern  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -70,7 +78,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2024 01:25:29 UTC
+ Last Updated on 12/07/2024 04:30:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
