@@ -21,7 +21,7 @@ Thank You for taking the time to view my GitHub Profile
 <picture>
     <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/ifeanyichukwuOtiwa-sports/snk/output/github-contribution-grid-snake-dark.svg"
     />
 </picture>
 
