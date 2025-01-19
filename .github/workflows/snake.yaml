@@ -4,13 +4,13 @@ on:
   schedule:
     - cron: "*/5 * * * *" 
   
-  # allows to manually run the job at any time
+  # allows to run the job at any time manually
   workflow_dispatch:
   
   # run on every push on the master branch
   push:
     branches:
-    - main
+    - master
   
 
 jobs:
