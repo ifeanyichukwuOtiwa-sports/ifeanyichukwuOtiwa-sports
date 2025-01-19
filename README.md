@@ -17,7 +17,7 @@ Thank You for taking the time to view my GitHub Profile
 ***
 
 
-<!--Snake_Section-->
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <picture>
     <source
     media="(prefers-color-scheme: dark)"
@@ -25,6 +25,13 @@ Thank You for taking the time to view my GitHub Profile
     />
 </picture>
 
+
+***
+
+<p float="left">
+  <img float="left" src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&count_private=true&include_all_commits=true&theme=react&show_icons=true" />
+  <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&layout=compact&show_icons=true&theme=react" /> 
+</p>
 
 ***
 
