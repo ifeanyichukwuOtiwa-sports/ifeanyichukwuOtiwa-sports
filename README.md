@@ -16,15 +16,8 @@ Thank You for taking the time to view my GitHub Profile
 
 ***
 
-
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ifeanyichukwuOtiwa-sports/ifeanyichukwuOtiwa-sports/output/github-contribution-grid-snake-dark.svg"/>
-    
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ifeanyichukwuOtiwa-sports/ifeanyichukwuOtiwa-sports/output/github-contribution-grid-snake.svg"/>
-    
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ifeanyichukwuOtiwa-sports/ifeanyichukwuOtiwa-sports/output/github-contribution-grid-snake.svg"/>
-</picture>
+![github contribution grid snake animation](https://raw.githubusercontent.com/ifeanyichukwuOtiwa-sports/ifeanyichukwuOtiwa-sports/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ifeanyichukwuOtiwa-sports/ifeanyichukwuOtiwa-sports/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ***
 
