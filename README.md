@@ -15,12 +15,14 @@ Thank You for taking the time to view my GitHub Profile
 <p align="left" marginTop="10px"> <img src="https://komarev.com/ghpvc/?username=ifeanyichukwuOtiwa-sports&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ifeanyichukwuOtiwa-sports" /> </p>
 
 ***
+<!--Snake_Section-->
 <picture>
     <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
     />
 </picture>
+***
 
 
 
