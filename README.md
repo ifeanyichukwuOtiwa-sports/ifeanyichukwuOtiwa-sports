@@ -31,7 +31,7 @@ Thank You for taking the time to view my GitHub Profile
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C108%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C116%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.8%20million%20lines%20of%20code-blue)
 
@@ -62,13 +62,21 @@ Sunday                   3119 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     4 hrs 29 mins       ██████████████░░░░░░░░░░░   55.70 % 
+Markdown                 1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Groovy                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Gradle                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+WinMaximizer             5 hrs               ████████████████░░░░░░░░░   62.08 % 
+Cashout                  1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+FixedOddsBets            1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+BetClassifier            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+GithubUserActivityTracker0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -84,7 +92,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2025 02:24:55 UTC
+ Last Updated on 26/08/2025 05:00:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
