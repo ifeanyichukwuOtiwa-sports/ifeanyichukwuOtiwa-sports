@@ -36,7 +36,7 @@ Thank You for taking the time to view my GitHub Profile
 <p align="center">
   <img float="left" src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&count_private=true&include_all_commits=true&theme=react&show_icons=true" />
   <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&layout=compact&show_icons=true&theme=react" /> 
-  <img src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark&title=Commits,Repositories&margin-h=15&rank=-C,-B&row=-1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark&title=Commits,Repositories&margin-h=15&rank=-C,-B&column=-1&row=2" />
 </p>
 
 
