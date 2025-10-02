@@ -108,7 +108,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark&title=Commits,Repositories,Stars,Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark&title=Commits,Repositories,Followers" />
 </p>
 
 <!---
