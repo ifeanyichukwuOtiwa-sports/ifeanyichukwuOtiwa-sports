@@ -1,6 +1,8 @@
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 ## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> 
+### <p>Hey there 👋 I’m Ifeanyichukwu O</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Senior+Java+Developer;Building+Scalable+%26+High-Performance+Apps;Exploring+Spring+Boot,+Redis,+Kafka,+MongoDB)](https://git.io/typing-svg)
 
 Thank You for taking the time to view my GitHub Profile
 
