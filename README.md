@@ -1,6 +1,5 @@
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
-## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> 
 ### <p>Hey there 👋 I’m Ifeanyichukwu O</p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Senior+Java+Developer;Building+Scalable+%26+High-Performance+Apps;Exploring+Spring+Boot,+Redis,+Kafka,+MongoDB)](https://git.io/typing-svg)
 
@@ -9,27 +8,40 @@ Thank You for taking the time to view my GitHub Profile
 - 👋 I am Ifeanyichukwu Otiwa
 - 🚀 Experienced Java Backend Pro, boosting app performance, security, & scalability. Let's build something extraordinary together!
 - 👀 I'm interested in Problem Solving, Java, Microservices with Spring, Spring Boot, MySQL, gRPC, REST, Kafka, git, Docker, and Kubernetes
-- 🌱 I am a fast learner and I'm currently learning and improving my skills
-- 💞️ I'm looking to collaborate on any interesting projects
+- 🔭 Currently working on: Distributed Systems, High-Concurrency Services
+- 🌱 Learning: Spring Data modules, SOLID principles, System Design
+- 💬 Ask me about: Java, Spring Boot, Redis, Kafka, MongoDB, SQL Optimization
+- ⚡ Fun fact: I love solving complex problems with simple designs
 - 📫 You can reach me through ifeanyichukwuotiwa.winson@gmail.com
 - 🚀 #BackendEngineer
 
 <p align="left" marginTop="10px"> <img src="https://komarev.com/ghpvc/?username=ifeanyichukwuOtiwa-sports&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ifeanyichukwuOtiwa-sports" /> </p>
 
-***
+<p align="center">
+  <a href="https://www.linkedin.com/in/ifeanyichukwu-otiwa-winson/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
+</picture>
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ifeanyichukwuOtiwa-sports/ifeanyichukwuOtiwa-sports/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ifeanyichukwuOtiwa-sports/ifeanyichukwuOtiwa-sports/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-***
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
+</picture>
 
 <p float="left">
   <img float="left" src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&count_private=true&include_all_commits=true&theme=react&show_icons=true" />
   <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&layout=compact&show_icons=true&theme=react" /> 
 </p>
 
-***
-
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
+</picture>
 
 
 <!--START_SECTION:waka-->
@@ -96,12 +108,13 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
  Last Updated on 02/10/2025 02:07:56 UTC
 <!--END_SECTION:waka-->
+<picture>
+  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
+</picture>
 
-<!--
 <p align="center">
 ![trophy](https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark) (https://github.com/ryo-ma/github-profile-trophy)
 </p>
--->
 
 <!---
 ifeanyi-otiwa/ifeanyi-otiwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
