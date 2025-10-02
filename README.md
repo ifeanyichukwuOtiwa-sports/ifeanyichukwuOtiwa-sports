@@ -12,7 +12,8 @@ Thank You for taking the time to view my GitHub Profile
 - 🌱 Learning: Spring Data modules, SOLID principles, System Design
 - 💬 Ask me about: Java, Spring Boot, Redis, Kafka, MongoDB, SQL Optimization
 - ⚡ Fun fact: I love solving complex problems with simple designs
-- 📫 You can reach me through ifeanyichukwuotiwa.winson@gmail.com
+- 📫 You can reach me through <a href="mailto:ifeanyichukwuotiwa.winson@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+
 - 🚀 #BackendEngineer
 
 <p align="left" marginTop="10px"> <img src="https://komarev.com/ghpvc/?username=ifeanyichukwuOtiwa-sports&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ifeanyichukwuOtiwa-sports" /> </p>
