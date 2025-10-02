@@ -13,17 +13,13 @@ Thank You for taking the time to view my GitHub Profile
 - 💬 Ask me about: Java, Spring Boot, Redis, Kafka, MongoDB, SQL Optimization
 - ⚡ Fun fact: I love solving complex problems with simple designs
 - 🚀 #BackendEngineer
-
-<p align="left" marginTop="10px"> <img src="https://komarev.com/ghpvc/?username=ifeanyichukwuOtiwa-sports&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ifeanyichukwuOtiwa-sports" /> </p>
+- ⚡ Fun: turning complex problems into simple designs
+- 📫 Reach me:
+<a href="mailto:ifeanyichukwuotiwa.winson@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/ifeanyichukwu-otiwa-winson/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ifeanyichukwuOtiwa-sports&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ifeanyichukwuOtiwa-sports" /> 
-  <a href="https://www.linkedin.com/in/ifeanyichukwu-otiwa-winson/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:ifeanyichukwuotiwa.winson@gmail.com"> 
-    <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
 </p>
 
 <picture>
