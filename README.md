@@ -39,6 +39,10 @@ Thank You for taking the time to view my GitHub Profile
   <img src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark&title=Commits,Repositories&margin-h=15&rank=-C,-B&column=-1&row=2" />
 </p>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark&title=Commits,Repositories&margin-h=15&rank=-C,-B&column=-1&row=2" />
+</p>
+
 
 <picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
