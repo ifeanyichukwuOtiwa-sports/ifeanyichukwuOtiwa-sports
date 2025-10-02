@@ -29,9 +29,13 @@ Thank You for taking the time to view my GitHub Profile
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ifeanyichukwuOtiwa-sports/ifeanyichukwuOtiwa-sports/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ifeanyichukwuOtiwa-sports/ifeanyichukwuOtiwa-sports/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<p float="left">
+<p float="left" align="center">
   <img float="left" src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&count_private=true&include_all_commits=true&theme=react&show_icons=true" />
   <img float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&layout=compact&show_icons=true&theme=react" /> 
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark&title=Commits,Repositories,Followers" />
 </p>
 
 <picture>
@@ -103,10 +107,6 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
  Last Updated on 02/10/2025 02:07:56 UTC
 <!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark&title=Commits,Repositories,Followers" />
-</p>
 
 <!---
 ifeanyi-otiwa/ifeanyi-otiwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
