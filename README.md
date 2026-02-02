@@ -49,8 +49,6 @@ Thank You for taking the time to view my GitHub Profile
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C557%20hrs%2059%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.19%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -110,7 +108,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 21:13:48 UTC
+ Last Updated on 02/02/2026 03:17:04 UTC
 <!--END_SECTION:waka-->
 
 <!---
