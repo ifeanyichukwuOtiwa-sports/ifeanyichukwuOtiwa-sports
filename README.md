@@ -4,11 +4,11 @@
 <p align="center"><strong>Senior Java Backend Engineer</strong></p>
 <p align="center">I design and build scalable backend systems with Spring Boot, distributed architectures, and performance-focused engineering.</p>
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=7000&pause=1000&center=true&vCenter=true&width=650&lines=Building+scalable+and+high-performance+backend+systems;Spring+Boot+%7C+Kafka+%7C+Redis+%7C+MongoDB+%7C+MySQL;Focused+on+clean+design%2C+reliability%2C+and+throughput" alt="Typing introduction" />
   </a>
-</p>
+</div>
 
 ## About Me
 
@@ -19,7 +19,7 @@
 
 ## Core Stack
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
+</div>
 
 ## Current Focus
 
@@ -39,36 +39,43 @@
 
 ## Connect
 
-<p>
+<div align="center">
   <a href="mailto:ifeanyichukwuotiwa.winson@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ifeanyichukwu-otiwa-winson/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ifeanyichukwuOtiwa-sports&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ifeanyichukwuOtiwa-sports" />
-</p>
+</div>
 
 ## GitHub Overview
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/ifeanyichukwuOtiwa-sports/ifeanyichukwuOtiwa-sports/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation dark" />
   <img src="https://raw.githubusercontent.com/ifeanyichukwuOtiwa-sports/ifeanyichukwuOtiwa-sports/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation light" />
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&layout=compact&theme=react&hide_border=true" alt="Top languages" />
-  </a>
-</p>
+I use this GitHub profile to showcase backend engineering work centered on scalable APIs, service reliability, distributed systems, and production-ready Java applications.
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark&title=Commits,Repositories&margin-h=15&column=2" alt="GitHub trophies" />
-  </a>
-</p>
+### What You'll Find Here
+
+- Spring Boot services with clean architecture and maintainable module boundaries.
+- Backend integrations using Kafka, Redis, MongoDB, MySQL, REST, and gRPC.
+- Engineering work focused on performance, scalability, observability, and secure service design.
+
+### Explore My GitHub
+
+- [Repositories](https://github.com/ifeanyichukwuOtiwa-sports?tab=repositories)
+- [Stars](https://github.com/ifeanyichukwuOtiwa-sports?tab=stars)
+- [Followers](https://github.com/ifeanyichukwuOtiwa-sports?tab=followers)
+- [Activity Overview](https://github.com/ifeanyichukwuOtiwa-sports)
+
+### Featured Work
+
+- Backend systems and microservices built around Java and Spring Boot.
+- Distributed service patterns for high-throughput and concurrency-heavy workloads.
+- Data-driven services integrating relational and NoSQL persistence layers.
+- Production-minded solutions with strong emphasis on simplicity, reliability, and long-term maintainability.
 
 ## Development Metrics
 
