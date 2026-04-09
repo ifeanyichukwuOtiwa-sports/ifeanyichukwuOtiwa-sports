@@ -56,12 +56,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&count_private=true&include_all_commits=true&theme=react&show_icons=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&layout=compact&show_icons=true&theme=react" alt="Top languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ifeanyichukwuOtiwa-sports&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeanyichukwuOtiwa-sports&layout=compact&theme=react&hide_border=true" alt="Top languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark&title=Commits,Repositories&margin-h=15&rank=-C,-B&column=-1&row=2" alt="GitHub trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ifeanyichukwuOtiwa-sports&theme=onedark&title=Commits,Repositories&margin-h=15&column=2" alt="GitHub trophies" />
+  </a>
 </p>
 
 ## Development Metrics
