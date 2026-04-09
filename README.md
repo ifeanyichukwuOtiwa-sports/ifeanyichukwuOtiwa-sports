@@ -70,12 +70,19 @@ I use this GitHub profile to showcase backend engineering work centered on scala
 - [Followers](https://github.com/ifeanyichukwuOtiwa-sports?tab=followers)
 - [Activity Overview](https://github.com/ifeanyichukwuOtiwa-sports)
 
-### Featured Work
+### Selected Engineering Work
 
-- Backend systems and microservices built around Java and Spring Boot.
-- Distributed service patterns for high-throughput and concurrency-heavy workloads.
-- Data-driven services integrating relational and NoSQL persistence layers.
-- Production-minded solutions with strong emphasis on simplicity, reliability, and long-term maintainability.
+- [PawaTask](https://github.com/ifeanyichukwuOtiwa-sports/PawaTask): Java 25 and Spring Boot 4 task management API with Redis-backed sessions, Spring Data JDBC, Liquibase migrations, ownership validation, and integration testing with Testcontainers.
+- [NigerianFinancialCalculator](https://github.com/ifeanyichukwuOtiwa-sports/NigerianFinancialCalculator): full-stack Angular and Spring Boot application with MySQL, Redis, Liquibase, saved scenarios, session-based authentication, and export capabilities for PDF and CSV workflows.
+- [sample-spring-security-jwt-auth-application](https://github.com/ifeanyichukwuOtiwa-sports/sample-spring-security-jwt-auth-application): focused authentication sample covering sign-up, login, JWT issuance, and secured API access with Spring Security.
+- [random-data-microservice](https://github.com/ifeanyichukwuOtiwa-sports/random-data-microservice): service integration example using Spring Boot, Kafka, gRPC, MySQL, and Docker for external API consumption and event publishing.
+
+### Engineering Themes
+
+- Stateful and token-based authentication patterns.
+- Service design with persistence, migrations, and API boundaries.
+- Java backend development with Spring Boot, Redis, MySQL, Kafka, and gRPC.
+- Testing and maintainability practices aimed at production-style systems.
 
 ## Development Metrics
 
