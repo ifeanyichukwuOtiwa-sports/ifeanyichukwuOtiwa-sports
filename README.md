@@ -91,6 +91,42 @@ I use this GitHub profile to showcase backend engineering work centered on scala
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.31%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                374 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+🌆 Daytime                4760 commits        █████████████████████░░░░   83.29 % 
+🌃 Evening                452 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+🌙 Night                  129 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1124 commits        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Tuesday                  793 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Wednesday                1030 commits        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Thursday                 964 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Friday                   1150 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Saturday                 353 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Sunday                   301 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -104,5 +140,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2026 08:10:48 UTC
+ Last Updated on 17/06/2026 10:29:50 UTC
 <!--END_SECTION:waka-->
