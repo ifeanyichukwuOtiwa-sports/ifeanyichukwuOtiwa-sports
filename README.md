@@ -87,62 +87,22 @@ I use this GitHub profile to showcase backend engineering work centered on scala
 ## Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-4%2C648%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C651%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.40%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                118180 commits      ██████████░░░░░░░░░░░░░░░   38.48 % 
-🌆 Daytime                152901 commits      ████████████░░░░░░░░░░░░░   49.79 % 
-🌃 Evening                27712 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-🌙 Night                  8320 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   53949 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Tuesday                  54537 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Wednesday                59702 commits       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Thursday                 64438 commits       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Friday                   62050 commits       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Saturday                 8085 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Sunday                   4352 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-```
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lagos
-
-💬 Programming Languages: 
-Java                     16 hrs 45 mins      █████████████░░░░░░░░░░░░   53.52 % 
-Markdown                 10 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   33.41 % 
-YAML                     2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Groovy                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Gradle                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-
-🐱‍💻 Projects: 
-WagerLimits              14 hrs 17 mins      ███████████░░░░░░░░░░░░░░   45.64 % 
-PawaTask                 8 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-FixedOddsBets            4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Unknown Project          1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-fluxcd-environments      1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-
-💻 Operating System: 
-Mac                      31 hrs 19 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.31%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     58 repos            ██████████████████████░░░   86.57 % 
-Dockerfile               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Java                     46 repos            █████████████████████░░░░   83.64 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
-Last Updated on 22/02/2026 21:09:54 UTC
+
+
+
+ Last Updated on 17/06/2026 08:10:48 UTC
 <!--END_SECTION:waka-->
