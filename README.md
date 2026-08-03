@@ -87,28 +87,30 @@ I use this GitHub profile to showcase backend engineering work centered on scala
 ## Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C744%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C332%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.52%20million%20lines%20of%20code-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-433%20hrs%201%20min-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.85%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                455 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-🌆 Daytime                4796 commits        ████████████████████░░░░░   80.90 % 
-🌃 Evening                546 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-🌙 Night                  131 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+🌞 Morning                686 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+🌆 Daytime                4977 commits        ███████████████████░░░░░░   76.73 % 
+🌃 Evening                685 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+🌙 Night                  138 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1128 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Tuesday                  829 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Wednesday                1099 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Thursday                 1027 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Friday                   1168 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Saturday                 361 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Sunday                   316 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Monday                   1209 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Tuesday                  905 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Wednesday                1205 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Thursday                 1147 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Friday                   1261 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Saturday                 399 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Sunday                   360 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 ```
 
 
@@ -118,18 +120,45 @@ Sunday                   316 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   10 hrs 51 mins      ███████████░░░░░░░░░░░░░░   45.77 % 
-Markdown                 8 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.92 % 
-TypeScript               2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-HTML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Python                   20 hrs 8 mins       ███████████████████░░░░░░   74.43 % 
+Markdown                 3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+TypeScript               2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+GitIgnore file           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🐱‍💻 Projects: 
-odds-comparison-tool     22 hrs 59 mins      ████████████████████████░   96.97 % 
-web_learning_interactive 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+odds-comparison-tool     26 hrs 32 mins      █████████████████████████   98.10 % 
+oct                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+RD-124-implement-market-m5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+router-dashboard         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Mac                      23 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 3 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 26 hrs 23 mins (97.57%)
+
+✍️ 8,998 lines written by AI, 38 lines written by hand (99.58% AI-written)
+
+🔤 599,832,260 Input Tokens, 1,720,575 Output Tokens
+
+💵 $1761.49 Estimated AI Cost This Week
+
+🧠 33 AI Sessions, 108 AI Prompts
+
+Opus                     4,326 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.58% of written lines came from AI
+📚 Verbose Prompter — average 3,548 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -145,5 +174,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2026 01:54:09 UTC
+ Last Updated on 03/08/2026 11:45:28 UTC
 <!--END_SECTION:waka-->
