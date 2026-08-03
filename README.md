@@ -91,26 +91,26 @@ I use this GitHub profile to showcase backend engineering work centered on scala
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-433%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.85%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-457.49%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                686 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-🌆 Daytime                4977 commits        ███████████████████░░░░░░   76.73 % 
-🌃 Evening                685 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-🌙 Night                  138 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+🌞 Morning                321 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+🌆 Daytime                4684 commits        ████████████████████░░░░░   81.93 % 
+🌃 Evening                583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+🌙 Night                  129 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1209 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Tuesday                  905 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Wednesday                1205 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Thursday                 1147 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Friday                   1261 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Saturday                 399 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Sunday                   360 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Monday                   1062 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Tuesday                  757 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Wednesday                1081 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Thursday                 1004 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Friday                   1114 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Saturday                 359 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Sunday                   340 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 ```
 
 
@@ -164,15 +164,15 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Java** 
 
 ```text
-Java                     46 repos            █████████████████████░░░░   83.64 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Java                     45 repos            ██████████████████████░░░   88.24 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
 
 
- Last Updated on 03/08/2026 11:45:28 UTC
+ Last Updated on 03/08/2026 14:20:54 UTC
 <!--END_SECTION:waka-->
