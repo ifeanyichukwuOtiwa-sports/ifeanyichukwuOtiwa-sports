@@ -87,79 +87,7 @@ I use this GitHub profile to showcase backend engineering work centered on scala
 ## Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C350%20hrs%2041%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-451%20hrs%2025%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-457.49%20thousand%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                321 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-🌆 Daytime                4684 commits        ████████████████████░░░░░   81.93 % 
-🌃 Evening                583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-🌙 Night                  129 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   1062 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Tuesday                  757 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Wednesday                1081 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Thursday                 1004 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Friday                   1114 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Saturday                 359 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Sunday                   340 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Lagos
-
-💬 Programming Languages: 
-Python                   18 hrs 12 mins      ██████████████░░░░░░░░░░░   54.77 % 
-Markdown                 6 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-TypeScript               5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-
-🐱‍💻 Projects: 
-odds-comparison-tool     31 hrs 46 mins      ████████████████████████░   95.58 % 
-ifeanyichukwuOtiwa-sports34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-oct                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-pawa-talent              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-RD-124-implement-market-m11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-
-💻 Operating System: 
-Mac                      33 hrs 14 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 32 hrs 28 mins (97.7%)
-
-✍️ 13,567 lines written by AI, 43 lines written by hand (99.68% AI-written)
-
-🔤 1,031,670,893 Input Tokens, 2,441,323 Output Tokens
-
-💵 $4358.80 Estimated AI Cost This Week
-
-🧠 40 AI Sessions, 147 AI Prompts
-
-Opus                     10,822 lines        █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.68% of written lines came from AI
-📚 Verbose Prompter — average 5,004 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.39% of changed lines were hand-edited
-```
 
 **I Mostly Code in Java** 
 
@@ -174,5 +102,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 13:45:54 UTC
+ Last Updated on 07/08/2026 02:12:10 UTC
 <!--END_SECTION:waka-->
