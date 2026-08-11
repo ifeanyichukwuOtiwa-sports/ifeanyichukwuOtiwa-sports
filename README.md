@@ -87,9 +87,9 @@ I use this GitHub profile to showcase backend engineering work centered on scala
 ## Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C363%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C368%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-463%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-469%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.64%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -120,44 +120,44 @@ Sunday                   350 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   18 hrs 37 mins      ███████████░░░░░░░░░░░░░░   45.07 % 
-Markdown                 10 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-TypeScript               7 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-GitIgnore file           35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Python                   16 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   40.01 % 
+Markdown                 11 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+TypeScript               7 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🐱‍💻 Projects: 
-odds-comparison-tool     39 hrs 46 mins      ████████████████████████░   96.24 % 
-ifeanyichukwuOtiwa-sports34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-pawa-talent              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+odds-comparison-tool     39 hrs 4 mins       ████████████████████████░   94.07 % 
+SportsEngineering        1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+pawa-talent              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 shared-pool-connection-re11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-router-dashboard         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+router-dashboard         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      41 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      41 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 hrs 33 mins (98.14%)
+⏱ AI Coding Time: 40 hrs 40 mins (97.92%)
 
-✍️ 14,779 lines written by AI, 20 lines written by hand (99.86% AI-written)
+✍️ 15,531 lines written by AI, 20 lines written by hand (99.87% AI-written)
 
-🔤 1,142,476,694 Input Tokens, 2,942,390 Output Tokens
+🔤 1,008,414,779 Input Tokens, 2,752,184 Output Tokens
 
-💵 $6769.82 Estimated AI Cost This Week
+💵 $6167.21 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 191 AI Prompts
+🧠 35 AI Sessions, 202 AI Prompts
 
-Opus                     12,565 lines        ████████████████████░░░░░   80.03 % 
-Fable                    3,135 lines         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Opus                     10,706 lines        ████████████████░░░░░░░░░   64.74 % 
+Fable                    5,831 lines         █████████░░░░░░░░░░░░░░░░   35.26 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📚 Verbose Prompter — average 6,259 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+🤖 AI-Driven — 99.87% of written lines came from AI
+📚 Verbose Prompter — average 5,544 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
@@ -174,5 +174,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 01:03:37 UTC
+ Last Updated on 11/08/2026 06:54:15 UTC
 <!--END_SECTION:waka-->
