@@ -87,9 +87,9 @@ I use this GitHub profile to showcase backend engineering work centered on scala
 ## Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C374%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C379%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-475%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-479%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.64%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -120,45 +120,45 @@ Sunday                   350 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   17 hrs 33 mins      ███████████░░░░░░░░░░░░░░   44.10 % 
-Markdown                 10 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-TypeScript               6 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-GitIgnore file           39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Python                   18 hrs 6 mins       ██████████████░░░░░░░░░░░   54.24 % 
+Markdown                 9 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+TypeScript               1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Bash                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+JSON                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🐱‍💻 Projects: 
-odds-comparison-tool     37 hrs 25 mins      ████████████████████████░   94.02 % 
-SportsEngineering        1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-pawa-talent              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-shared-pool-connection-re11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-router-dashboard         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+odds-comparison-tool     31 hrs 22 mins      ████████████████████████░   94.00 % 
+SportsEngineering        1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+shared-pool-connection-re11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+router-dashboard         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+LightEditProject         6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Mac                      39 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 6 mins (98.26%)
+⏱ AI Coding Time: 32 hrs 39 mins (97.86%)
 
-✍️ 16,874 lines written by AI, 15 lines written by hand (99.91% AI-written)
+✍️ 15,880 lines written by AI, 15 lines written by hand (99.91% AI-written)
 
-🔤 823,487,294 Input Tokens, 2,779,121 Output Tokens
+🔤 310,754,050 Input Tokens, 2,305,382 Output Tokens
 
-💵 $5050.05 Estimated AI Cost This Week
+💵 $2284.15 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 194 AI Prompts
+🧠 25 AI Sessions, 169 AI Prompts
 
-Opus                     12,312 lines        █████████████████░░░░░░░░   69.68 % 
-Fable                    5,358 lines         ████████░░░░░░░░░░░░░░░░░   30.32 % 
+Opus                     8,304 lines         █████████████░░░░░░░░░░░░   50.93 % 
+Fable                    8,001 lines         ████████████░░░░░░░░░░░░░   49.07 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 5,534 characters per prompt
+📚 Verbose Prompter — average 4,696 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -174,5 +174,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 01:13:48 UTC
+ Last Updated on 13/08/2026 07:16:40 UTC
 <!--END_SECTION:waka-->
