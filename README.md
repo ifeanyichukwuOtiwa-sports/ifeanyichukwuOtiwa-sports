@@ -87,9 +87,9 @@ I use this GitHub profile to showcase backend engineering work centered on scala
 ## Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C450%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C454%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-550%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-554%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-519.23%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -120,44 +120,43 @@ Sunday                   358 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   20 hrs 44 mins      ██████████████░░░░░░░░░░░   56.29 % 
-Markdown                 6 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-TypeScript               5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-JSON                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Python                   19 hrs 8 mins       ██████████████░░░░░░░░░░░   54.38 % 
+Markdown                 6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+TypeScript               5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+JSON                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+YAML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 🐱‍💻 Projects: 
-odds-comparison-tool     36 hrs 10 mins      █████████████████████████   98.19 % 
-SportsEngineering        16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-pawa-talent              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-locker-room-bonus        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-helm-chart-betpawa-migrat6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+odds-comparison-tool     34 hrs 41 mins      █████████████████████████   98.57 % 
+SportsEngineering        16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+locker-room-bonus        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+helm-chart-betpawa-migrat6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Mac                      36 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 28 mins (98.99%)
+⏱ AI Coding Time: 34 hrs 59 mins (99.41%)
 
-✍️ 10,008 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,053 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 47,981,740 Input Tokens, 2,142,872 Output Tokens
+🔤 45,516,742 Input Tokens, 2,170,902 Output Tokens
 
-💵 $932.19 Estimated AI Cost This Week
+💵 $936.96 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 194 AI Prompts
+🧠 52 AI Sessions, 186 AI Prompts
 
-Opus                     8,439 lines         █████████████████████░░░░   82.54 % 
-Fable                    1,785 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Opus                     8,520 lines         ███████████████████░░░░░░   75.59 % 
+Fable                    2,751 lines         ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,401 characters per prompt
+📚 Verbose Prompter — average 7,080 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -175,5 +174,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 02:47:06 UTC
+ Last Updated on 01/09/2026 10:52:20 UTC
 <!--END_SECTION:waka-->
