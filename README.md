@@ -87,9 +87,9 @@ I use this GitHub profile to showcase backend engineering work centered on scala
 ## Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C474%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C479%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-573%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-578%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-519.23%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -120,42 +120,41 @@ Sunday                   358 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   22 hrs 23 mins      ████████████████░░░░░░░░░   62.07 % 
-Markdown                 6 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-TypeScript               2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-JSON                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-YAML                     2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Python                   23 hrs 46 mins      █████████████████░░░░░░░░   67.00 % 
+Markdown                 4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+JSON                     2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+YAML                     2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+TypeScript               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 
 🐱‍💻 Projects: 
-odds-comparison-tool     35 hrs 48 mins      █████████████████████████   99.24 % 
-SportsEngineering        16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+odds-comparison-tool     35 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      36 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      35 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 39 mins (98.84%)
+⏱ AI Coding Time: 35 hrs 3 mins (98.82%)
 
-✍️ 10,746 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,255 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 44,215,825 Input Tokens, 2,124,065 Output Tokens
+🔤 50,114,855 Input Tokens, 2,212,614 Output Tokens
 
-💵 $976.95 Estimated AI Cost This Week
+💵 $1054.90 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 197 AI Prompts
+🧠 50 AI Sessions, 213 AI Prompts
 
-Opus                     9,452 lines         █████████████████████░░░░   82.36 % 
-Fable                    2,025 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Opus                     9,929 lines         █████████████████████░░░░   82.66 % 
+Fable                    2,083 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,703 characters per prompt
+📚 Verbose Prompter — average 5,663 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.43% of changed lines were hand-edited
+🚀 High AI Trust — 0.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -171,5 +170,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 02:09:48 UTC
+ Last Updated on 05/09/2026 09:43:28 UTC
 <!--END_SECTION:waka-->
