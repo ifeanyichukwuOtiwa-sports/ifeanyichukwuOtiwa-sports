@@ -87,9 +87,9 @@ I use this GitHub profile to showcase backend engineering work centered on scala
 ## Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C521%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C522%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-622%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-622%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-519.23%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -120,45 +120,45 @@ Sunday                   358 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   14 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   38.23 % 
-Markdown                 9 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               8 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-YAML                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Diff                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Python                   13 hrs 1 min        ██████████░░░░░░░░░░░░░░░   40.94 % 
+Markdown                 7 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+TypeScript               5 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+YAML                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Diff                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🐱‍💻 Projects: 
-odds-comparison-tool     36 hrs 41 mins      ████████████████████████░   97.28 % 
-SP-165-implement-oct-anal23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-SP-165-summarizer-narrow-21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-SP-165-window-events-rest10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-OCT_Runbook_Durable_Summa2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+odds-comparison-tool     30 hrs 48 mins      ████████████████████████░   96.78 % 
+SP-165-implement-oct-anal23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+SP-165-summarizer-narrow-21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+SP-165-window-events-rest10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+OCT_Runbook_Durable_Summa2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Mac                      37 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 39 mins (99.84%)
+⏱ AI Coding Time: 31 hrs 33 mins (99.12%)
 
-✍️ 13,490 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10,320 lines written by AI, 44 lines written by hand (99.58% AI-written)
 
-🔤 39,662,838 Input Tokens, 1,765,366 Output Tokens
+🔤 35,051,247 Input Tokens, 1,475,682 Output Tokens
 
-💵 $908.67 Estimated AI Cost This Week
+💵 $736.06 Estimated AI Cost This Week
 
-🧠 57 AI Sessions, 234 AI Prompts
+🧠 51 AI Sessions, 204 AI Prompts
 
-Opus                     10,123 lines        ██████████████████░░░░░░░   71.95 % 
-Fable                    3,947 lines         ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+Opus                     8,145 lines         ███████████████████░░░░░░   75.19 % 
+Fable                    2,687 lines         ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 24,327 characters per prompt
+🤖 AI-Driven — 99.58% of written lines came from AI
+📚 Verbose Prompter — average 26,465 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -174,5 +174,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 02:31:17 UTC
+ Last Updated on 16/09/2026 10:34:26 UTC
 <!--END_SECTION:waka-->
