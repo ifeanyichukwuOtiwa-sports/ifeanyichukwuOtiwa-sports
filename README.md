@@ -87,9 +87,9 @@ I use this GitHub profile to showcase backend engineering work centered on scala
 ## Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C568%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C577%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-669%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-677%20hrs%2050%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-519.23%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -120,45 +120,47 @@ Sunday                   358 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   14 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   40.15 % 
-Java                     4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Markdown                 4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Other                    3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Text                     2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Python                   11 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   31.08 % 
+Markdown                 6 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Java                     5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Other                    3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Text                     3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 
 🐱‍💻 Projects: 
-odds-comparison-tool     23 hrs 53 mins      █████████████████░░░░░░░░   67.40 % 
-Operator-Payroll-Manageme4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-pmt-backend              3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-payroll-management-backen2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-itl-backend              49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+odds-comparison-tool     20 hrs 56 mins      ██████████████░░░░░░░░░░░   55.01 % 
+payroll-management-backen5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+pmt-backend              3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Operator-Payroll-Manageme3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+payroll-management-fronte2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 
 💻 Operating System: 
-Mac                      35 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 3 mins (93.29%)
+⏱ AI Coding Time: 34 hrs 59 mins (91.92%)
 
-✍️ 21,554 lines written by AI, 71 lines written by hand (99.67% AI-written)
+✍️ 28,613 lines written by AI, 140 lines written by hand (99.51% AI-written)
 
-🔤 24,690,505 Input Tokens, 2,727,251 Output Tokens
+🔤 25,162,435 Input Tokens, 3,208,323 Output Tokens
 
-💵 $623.83 Estimated AI Cost This Week
+💵 $533.06 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 173 AI Prompts
+🧠 38 AI Sessions, 179 AI Prompts
 
-Opus                     14,609 lines        █████████████████░░░░░░░░   67.44 % 
-Fable                    6,965 lines         ████████░░░░░░░░░░░░░░░░░   32.15 % 
-GPT                      87 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Opus                     20,299 lines        ██████████████████░░░░░░░   70.79 % 
+Fable                    6,805 lines         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Sonnet                   1,187 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Haiku                    296 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+GPT                      87 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.67% of written lines came from AI
-📚 Verbose Prompter — average 4,069 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.41% of changed lines were hand-edited
+🤖 AI-Driven — 99.51% of written lines came from AI
+📚 Verbose Prompter — average 4,740 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 13.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -174,5 +176,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 22:11:56 UTC
+ Last Updated on 02/10/2026 03:17:39 UTC
 <!--END_SECTION:waka-->
