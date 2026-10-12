@@ -120,46 +120,46 @@ Sunday                   358 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Java                     11 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   39.30 % 
-Markdown                 6 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Text                     4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Other                    2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-YAML                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Java                     11 hrs 54 mins      ███████████░░░░░░░░░░░░░░   42.19 % 
+Markdown                 5 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Text                     4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Other                    2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+YAML                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 
 🐱‍💻 Projects: 
-payroll-management-backen18 hrs 5 mins       ███████████████░░░░░░░░░░   59.73 % 
-odds-comparison-tool     5 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-payroll-management-tool  3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-payroll-management-fronte1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-agent-notes              1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+payroll-management-backen17 hrs 58 mins      ████████████████░░░░░░░░░   63.74 % 
+payroll-management-tool  3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+odds-comparison-tool     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+payroll-management-fronte1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+agent-notes              1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 💻 Operating System: 
-Mac                      30 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 19 mins (86.94%)
+⏱ AI Coding Time: 24 hrs 15 mins (85.98%)
 
-✍️ 5,206 lines written by AI, 1,239 lines written by hand (80.78% AI-written)
+✍️ 4,639 lines written by AI, 1,239 lines written by hand (78.92% AI-written)
 
-🔤 25,994,047 Input Tokens, 2,857,306 Output Tokens
+🔤 23,415,903 Input Tokens, 2,693,469 Output Tokens
 
-💵 $454.69 Estimated AI Cost This Week
+💵 $418.30 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 83 AI Prompts
+🧠 22 AI Sessions, 77 AI Prompts
 
-Opus                     5,523 lines         █████████████████████████   100.00 % 
+Opus                     4,672 lines         █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.78% of written lines came from AI
-📚 Verbose Prompter — average 5,163 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 26.49% of changed lines were hand-edited
+🤖 AI-Driven — 78.92% of written lines came from AI
+📚 Verbose Prompter — average 5,363 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 29.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -175,5 +175,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 21:18:44 UTC
+ Last Updated on 12/10/2026 03:27:56 UTC
 <!--END_SECTION:waka-->
