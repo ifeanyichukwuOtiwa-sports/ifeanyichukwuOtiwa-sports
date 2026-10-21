@@ -87,9 +87,9 @@ I use this GitHub profile to showcase backend engineering work centered on scala
 ## Development Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C628%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C631%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-727%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-729%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-519.23%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -120,45 +120,45 @@ Sunday                   358 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Markdown                 6 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.80 % 
-Python                   1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Java                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Bash                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Markdown                 4 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.20 % 
+Python                   1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Java                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+SQL                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 🐱‍💻 Projects: 
-odds-comparison-tool     6 hrs 58 mins       ███████████░░░░░░░░░░░░░░   42.06 % 
-payroll-management-backen4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-payroll-management-fronte3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-payroll-management-tool  1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-itl-frontend             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+odds-comparison-tool     7 hrs 26 mins       ████████████████░░░░░░░░░   63.38 % 
+payroll-management-backen2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+payroll-management-fronte52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+payroll-management-tool  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+itl-backend              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-Mac                      16 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 28 mins (87.35%)
+⏱ AI Coding Time: 10 hrs 59 mins (93.65%)
 
-✍️ 3,635 lines written by AI, 18 lines written by hand (99.51% AI-written)
+✍️ 3,789 lines written by AI, 369 lines written by hand (91.13% AI-written)
 
-🔤 10,072,594 Input Tokens, 1,344,749 Output Tokens
+🔤 9,052,960 Input Tokens, 1,055,046 Output Tokens
 
-💵 $204.86 Estimated AI Cost This Week
+💵 $172.58 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 24 AI Prompts
+🧠 34 AI Sessions, 35 AI Prompts
 
-Opus                     1,915 lines         █████████████░░░░░░░░░░░░   52.24 % 
-Fable                    1,751 lines         ████████████░░░░░░░░░░░░░   47.76 % 
+Opus                     2,099 lines         ██████████████░░░░░░░░░░░   54.52 % 
+Fable                    1,751 lines         ███████████░░░░░░░░░░░░░░   45.48 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.51% of written lines came from AI
-📚 Verbose Prompter — average 5,453 characters per prompt
+🤖 AI-Driven — 91.13% of written lines came from AI
+📚 Verbose Prompter — average 6,659 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 3.42% of changed lines were hand-edited
+🚀 High AI Trust — 9.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -174,5 +174,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 02:39:30 UTC
+ Last Updated on 21/10/2026 10:55:35 UTC
 <!--END_SECTION:waka-->
